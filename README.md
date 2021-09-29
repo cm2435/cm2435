@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **cm2435/cm2435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
