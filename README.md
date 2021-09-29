@@ -1,9 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋 My names Charlie, I work full time as a Data Scientist specialising in NLP systems design. My accademic background is in physics with a Bsc from the univeristy of Bath. I enjoy hard algorithmic problems and enjoy my work of designing mature ML systems and seeing them thrive in production environments 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435&show_icons=true&theme=radical)
 
-### My top languages
+### My top languages are-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm2435&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -22,8 +21,6 @@
 [1]: https://charlie-masters.medium.com/
 [2]: https://www.linkedin.com/in/charlie-masters-a55269166/
 
-
-https://charlie-masters.medium.com/
 <!--
 **cm2435/cm2435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
