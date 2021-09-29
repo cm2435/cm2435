@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435&count_private=true)
 
 
 
