@@ -14,7 +14,7 @@
 
 <!-- Icons -->
 
-[1.2]: https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png
+[1.2]: https://seeklogo.com/images/M/medium-logo-AC4BE02AB0-seeklogo.com.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
