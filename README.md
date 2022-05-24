@@ -1,6 +1,6 @@
 ### Hi there 👋 My names Charlie, I work full time as a Data Scientist specialising in NLP systems design. My accademic background is in Physics with a Bsc from the Univeristy of Bath. I enjoy hard algorithmic problems and enjoy my work of designing mature ML systems and seeing them thrive in production environments. 
 
-![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435&show_icons=true&theme=radical&hide=prs,contribs)
+![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435&show_icons=true&theme=radical&hide=prs,contribs, issues)
 
 ### My top languages are-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm2435&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
