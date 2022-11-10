@@ -1,4 +1,4 @@
-### Hi there 👋 My names Charlie, I work full time as a Data Scientist specialising in NLP systems design. My accademic background is in Physics with a Bsc from the Univeristy of Bath. I enjoy hard algorithmic problems and enjoy my work of designing mature ML systems and seeing them thrive in production environments. 
+### Hi there 👋 My names Charlie, I work full time as a Data Scientist specialising in NLP and Search systems design. My academic background is in Physics with a Bsc from the Univeristy of Bath. I enjoy hard problems spanning statistical learning, NLP, MLOPs and dense retrieval and enjoy my work of designing mature ML systems and seeing them thrive in production environments. 
 
 ![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435&count_private=true&show_icons=true&theme=radical&hide=prs,contribs)
 
