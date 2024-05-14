@@ -5,7 +5,7 @@
 ### My top languages are-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm2435&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-### Here's my research blog[3]
+### Here's my [research blog]
 
 
 <!-- Actual text -->
@@ -21,7 +21,7 @@
 
 [1]: https://charlie-masters.medium.com/
 [2]: https://www.linkedin.com/in/charlie-masters-a55269166/
-[3]: https://cm2435.github.io
+[research blog]: https://cm2435.github.io
 
 <!--
 **cm2435/cm2435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
