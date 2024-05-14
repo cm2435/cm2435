@@ -5,6 +5,8 @@
 ### My top languages are-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm2435&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
+### Here's my research blog-
+[![Blog](https://cm2435.github.io)
 
 
 <!-- Actual text -->
