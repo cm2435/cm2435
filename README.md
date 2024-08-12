@@ -1,10 +1,5 @@
 ### Always learning. 
 
-![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2435&count_private=true&show_icons=true&theme=radical&hide=prs,contribs)
-
-### My top languages are-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm2435&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Here's my [research blog]
 
 
